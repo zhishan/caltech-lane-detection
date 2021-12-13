@@ -18,3 +18,7 @@ Various utility functions for checking intersections of lines with lines and bou
 An implementation of a general Hough transform routine for lines.
 
 [1] Mohamed Aly, Real time Detection of Lane Markers in Urban Streets, IEEE Intelligent Vehicles Symposium, Eindhoven, The Netherlands, June 2008. [pdf]
+
+-------
+* [video: Curved Lane Detection_Algorithm Explanation in English](https://www.youtube.com/watch?v=0RAijzUnQAU)
+* [MainPage: Caltech Lane Detection](http://www.mohamedaly.info/software/caltech-lane-detection)
